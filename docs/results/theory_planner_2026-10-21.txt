@@ -1,0 +1,18 @@
+game     goal | levels completed by the planner / tested | actions planner:human | re-plans | detail
+ar25   [0, 9] | 0/2 | 0:0 | 2 | L2:x(2/11) L3:x(0/45)
+bp35   [5, 7, 10] | 0/1 | 0:0 | 0 | L2:x(0/40)
+cd82     None | no plannable levels
+cn04   [8, 10] | 0/1 | 0:0 | 0 | L2:x(0/30)
+dc22     [11] | 0/2 | 0:0 | 2 | L2:x(20/55) L3:x(0/48)
+g50t   [5, 9] | 0/6 | 0:0 | 13 | L2:x(2/31) L3:x(2/64) L4:x(3/31) L5:x(8/50) L6:x(2/41) L7:x(2/43)
+ka59   [0, 1] | 0/6 | 0:0 | 6 | L2:x(1/43) L3:x(1/38) L4:x(1/39) L5:x(1/21) L6:x(1/69) L7:x(1/93)
+m0r0     [10] | 0/5 | 0:0 | 5 | L2:x(2/29) L3:x(2/79) L4:x(2/13) L5:x(2/48) L6:x(2/50)
+re86     [11] | 0/1 | 0:0 | 0 | L2:x(0/38)
+sc25     [10] | 0/5 | 0:0 | 5 | L2:x(1/5) L3:x(1/12) L4:x(2/25) L5:x(1/39) L6:x(1/40)
+sk48     None | no plannable levels
+sp80     None | no plannable levels
+tr87     None | no plannable levels
+tu93      [5] | 0/8 | 0:0 | 20 | L2:x(2/10) L3:x(1/19) L4:x(1/17) L5:x(1/29) L6:x(7/28) L7:x(1/14) L8:x(5/23) L9:x(3/29)
+wa30     None | no plannable levels
+
+ALL: planner completed 0 of 37 tested levels (levels 2+ of direction games), no model, no tokens

@@ -1,0 +1,5 @@
+16:17:35 v10 L1: author candidate 0 failed: IndexError: index 63 is out of bounds for axis 0 with size 63
+16:17:55 v10 L1: author candidate 1: determ=0% sa_cov=0% respons=100% states=30
+16:18:08 v10 L1: author candidate 2: determ=0% sa_cov=0% respons=100% states=29
+16:18:22 v10 L1: author candidate 3: determ=0% sa_cov=0% respons=100% states=30
+16:18:22 v10 L1: authoring round 1 produced no usable abstraction

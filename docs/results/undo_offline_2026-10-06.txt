@@ -1,0 +1,27 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+game   undo_avail  probe changed undo_reverted noop_undo_ok  note
+ar25         True      1    True         False         None  after UNDO differs from start in 1 cells
+bp35         True      3    True         False         None  after UNDO differs from start in 2 cells
+cd82        False      1    True         False         None  after UNDO differs from start in 1 cells (= probe board, UNDO was a no-op)
+cn04        False      1    True         False         None  after UNDO differs from start in 145 cells
+dc22        False      1    True         False         None  after UNDO differs from start in 9 cells (= probe board, UNDO was a no-op)
+ft09        False   None   False          None         None  
+g50t        False      2    True         False        False  after UNDO differs from start in 49 cells (= probe board, UNDO was a no-op)
+ka59        False      1    True         False         None  after UNDO differs from start in 19 cells (= probe board, UNDO was a no-op)
+lf52         True      1    True         False         None  after UNDO differs from start in 2 cells
+lp85        False   None   False          None         None  
+ls20        False      1    True         False         None  after UNDO differs from start in 52 cells (= probe board, UNDO was a no-op)
+m0r0        False      1    True         False         None  after UNDO differs from start in 102 cells
+r11l        False   None   False          None         None  
+re86        False      1    True         False         None  after UNDO differs from start in 61 cells (= probe board, UNDO was a no-op)
+s5i5        False   None   False          None         None  
+sb26         True      5    True         False         None  after UNDO differs from start in 1 cells (= probe board, UNDO was a no-op)
+sc25        False      2    True         False         True  after UNDO differs from start in 8 cells (= probe board, UNDO was a no-op)
+sk48         True      1    True          True         None  
+sp80        False      1    True         False         None  after UNDO differs from start in 164 cells
+su15         True   None   False          None         None  
+tn36        False   None   False          None         None  
+tr87        False      1    True         False         None  after UNDO differs from start in 13 cells (= probe board, UNDO was a no-op)
+tu93        False      1    True         False         None  after UNDO differs from start in 1 cells (= probe board, UNDO was a no-op)
+vc33        False   None   False          None         None  
+wa30        False      1    True         False         None  after UNDO differs from start in 32 cells (= probe board, UNDO was a no-op)

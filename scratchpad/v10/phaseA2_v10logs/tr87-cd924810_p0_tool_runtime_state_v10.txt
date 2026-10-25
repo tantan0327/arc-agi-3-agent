@@ -1,0 +1,3 @@
+01:02:38 v10 L1: author candidate 0 failed: TypeError: 'int' object is not subscriptable
+01:03:05 v10 L1: author candidate 1 failed: IndexError: boolean index did not match indexed array along axis 0; size of axis is 11 but s
+01:03:05 v10 L1: authoring round 1 produced no usable abstraction

@@ -1,0 +1,9 @@
+Calibrated simulator (hard_frac 0.8, hazard 0.1, seeds 40-49, 110 games, 9 h, 10 slots), difficulty 1.10 = today's token cost.
+token cost  base   D'     oracle
+x1.0        27.5   29.2   31.0
+x0.9        29.6   30.1   31.9
+x0.8        30.4   30.7   33.0
+x0.7        31.7   32.3   34.6
+x0.6        32.9   33.6   36.3
+x0.5        34.8   35.5   39.0
+Agent action mix on the Franzen chassis (31,562 actions): direction 58%, click 38%, other 5%.

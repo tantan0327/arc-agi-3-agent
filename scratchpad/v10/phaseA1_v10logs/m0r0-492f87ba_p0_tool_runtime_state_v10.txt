@@ -1,0 +1,5 @@
+16:43:40 v10 L1: author candidate 0: determ=0% sa_cov=0% respons=100% states=31
+16:44:02 v10 L1: author candidate 1: determ=0% sa_cov=0% respons=100% states=29
+16:44:45 v10 L1: author candidate 2: determ=0% sa_cov=0% respons=100% states=31
+16:45:17 v10 L1: author candidate 3: determ=0% sa_cov=0% respons=100% states=31
+16:45:17 v10 L1: authoring round 1 produced no usable abstraction

@@ -1,0 +1,33 @@
+18:03:30 v10 L1: author candidate 0: determ=0% sa_cov=0% respons=100% states=34
+18:04:09 v10 L1: author candidate 1 failed: TypeError: 'int' object is not iterable
+18:04:20 v10 L1: author candidate 2 failed: IndexError: tuple index out of range
+18:05:15 v10 L1: author candidate 3: determ=100% sa_cov=24% respons=100% states=13
+18:05:15 v10 L1: ADOPTED abstraction determ=100% sa_cov=24% respons=100%
+18:05:15 v10 L1: plan len=1 (path 0) states=13 edges=25
+18:05:15 v10 L1: validate n=34 determ=100% sa_cov=24% respons=100% states=13 -> OK
+18:05:15 v10 L1: plan len=1 (path 0) states=13 edges=26
+18:05:15 v10 L1: plan len=1 (path 0) states=14 edges=27
+18:05:16 v10 L1: plan len=1 (path 0) states=14 edges=28
+18:05:16 v10 L1: plan len=1 (path 0) states=15 edges=29
+18:05:16 v10 L1: plan len=1 (path 0) states=15 edges=30
+18:05:17 v10 L1: plan len=1 (path 0) states=16 edges=31
+18:05:17 v10 L1: plan len=1 (path 0) states=16 edges=32
+18:05:17 v10 L1: plan len=1 (path 0) states=17 edges=33
+18:05:17 v10 L1: plan len=1 (path 0) states=17 edges=34
+18:05:17 v10 L1: plan len=1 (path 0) states=18 edges=35
+18:05:18 v10 L1: plan len=1 (path 0) states=18 edges=36
+18:05:18 v10 L1: plan len=1 (path 0) states=18 edges=37
+18:05:18 v10 L1: plan len=1 (path 0) states=18 edges=38
+18:05:18 v10 L1: plan len=1 (path 0) states=18 edges=39
+18:05:19 v10 L1: plan len=1 (path 0) states=18 edges=40
+18:05:19 v10 L1: plan len=1 (path 0) states=18 edges=41
+18:05:19 v10 L1: plan len=1 (path 0) states=18 edges=42
+18:05:20 v10 L1: plan len=1 (path 0) states=18 edges=43
+18:05:20 v10 L1: plan len=1 (path 0) states=18 edges=44
+18:05:20 v10 L1: plan len=1 (path 0) states=18 edges=45
+18:05:21 v10 L1: plan len=1 (path 0) states=18 edges=46
+18:05:21 v10 L1: plan len=1 (path 0) states=18 edges=47
+18:05:21 v10 L1: plan len=1 (path 0) states=18 edges=48
+18:05:21 v10 L1: plan len=1 (path 0) states=18 edges=49
+18:05:22 v10 L1: plan len=1 (path 0) states=18 edges=50
+18:05:22 v10 L1: frontier exhausted at 18 abstract states; yielding 8 turns

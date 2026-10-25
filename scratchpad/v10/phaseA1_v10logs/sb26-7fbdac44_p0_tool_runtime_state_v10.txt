@@ -1,0 +1,5 @@
+17:58:17 v10 L2: author candidate 0: determ=0% sa_cov=0% respons=100% states=32
+17:58:43 v10 L2: author candidate 1: determ=0% sa_cov=0% respons=100% states=36
+17:59:10 v10 L2: author candidate 2 failed: IndexError: only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and intege
+17:59:41 v10 L2: author candidate 3: determ=0% sa_cov=0% respons=100% states=32
+17:59:41 v10 L2: authoring round 1 produced no usable abstraction

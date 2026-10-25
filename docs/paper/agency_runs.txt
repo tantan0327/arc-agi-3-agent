@@ -1,0 +1,49 @@
+# Agency measurement raw outputs (scripts/measure_agency.py)
+
+## Run A: arc3-pa-nightly v1 (engine-only, recorded 2026-08-30)
+game   dir moves  read as a translation  distinct movers  most common mover
+sk48          11                 1 (9%)                1  colour 14, 16 cells (1/1)
+m0r0          56               14 (25%)                3  colour 5, 32 cells (9/14)
+bp35          29               21 (72%)                2  colour 10, 23 cells (20/21)
+cn04          75                 0 (0%)                0  -
+dc22          29               28 (97%)                2  colour 14, 4 cells (15/28)
+tu93         138                 0 (0%)                0  -
+ka59          97               65 (67%)                3  colour 1, 9 cells (43/65)
+wa30          57               36 (63%)                5  colour 1, 16 cells (31/36)
+lf52          40                 0 (0%)                0  -
+sc25          69               61 (88%)                5  colour 10, 8 cells (20/61)
+sp80          83               46 (55%)                2  colour 12, 16 cells (28/46)
+ar25         153                 1 (1%)                1  colour 4, 9 cells (1/1)
+cd82          24                 0 (0%)                0  -
+re86          85                 0 (0%)                0  -
+ls20          92                 0 (0%)                0  -
+tr87          51               10 (20%)                2  colour 3, 14 cells (7/10)
+g50t          47               29 (62%)                1  colour 5, 24 cells (29/29)
+
+  games where one object accounts for >=80% of the moves: 5
+  If that is most of them, the avatar is recoverable from a single
+  successful direction press, and 'which blob is me' is free knowledge.
+
+## Run B: arc3-pa-dflash v7 (recorded 2026-08-29)
+game   dir moves  read as a translation  distinct movers  most common mover
+sk48          44                 4 (9%)                2  colour 14, 16 cells (3/4)
+m0r0          41               13 (32%)                2  colour 10, 25 cells (8/13)
+bp35          18               14 (78%)                1  colour 10, 23 cells (14/14)
+cn04          55                 0 (0%)                0  -
+dc22          20               13 (65%)                2  colour 2, 4 cells (7/13)
+tu93          77                 0 (0%)                0  -
+ka59          25               15 (60%)                2  colour 1, 9 cells (12/15)
+wa30          30               22 (73%)                3  colour 1, 16 cells (20/22)
+lf52           5                 0 (0%)                0  -
+sc25          35               30 (86%)                5  colour 2, 16 cells (13/30)
+sp80          22               13 (59%)                2  colour 9, 16 cells (9/13)
+ar25          81                 0 (0%)                0  -
+cd82          42                 0 (0%)                0  -
+re86         130                 1 (1%)                1  colour 5, 29 cells (1/1)
+ls20          18                 0 (0%)                0  -
+tr87          84               12 (14%)                2  colour 3, 14 cells (6/12)
+g50t          74               40 (54%)                2  colour 5, 24 cells (27/40)
+
+  games where one object accounts for >=80% of the moves: 4
+  If that is most of them, the avatar is recoverable from a single
+  successful direction press, and 'which blob is me' is free knowledge.

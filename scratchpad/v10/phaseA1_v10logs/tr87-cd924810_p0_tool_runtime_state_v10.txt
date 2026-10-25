@@ -1,0 +1,10 @@
+16:33:15 v10 L1: author candidate 0: determ=0% sa_cov=0% respons=100% states=38
+16:33:34 v10 L1: author candidate 1: determ=0% sa_cov=46% respons=61% states=20
+16:34:37 v10 L1: author candidate 2: determ=0% sa_cov=0% respons=100% states=38
+16:35:40 v10 L1: author candidate 3: determ=0% sa_cov=5% respons=90% states=35
+16:35:40 v10 L1: authoring round 1 produced no usable abstraction
+17:58:44 v10 L1: author candidate 0: determ=0% sa_cov=0% respons=100% states=77
+17:59:03 v10 L1: author candidate 1 failed: ValueError: not enough values to unpack (expected 2, got 0)
+17:59:49 v10 L1: author candidate 2: determ=0% sa_cov=0% respons=100% states=77
+18:00:09 v10 L1: author candidate 3: determ=94% sa_cov=71% respons=31% states=19
+18:00:09 v10 L1: authoring round 2 produced no usable abstraction
